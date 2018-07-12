@@ -1,0 +1,7 @@
+https://golang.org
+https://golang.org/pkg/
+https://golang.org/src/bufio/example_test.go
+https://blog.golang.org/error-handling-and-go
+https://golang.org/pkg/bufio/
+https://golang.org/pkg/archive/
+https://golang.org/pkg/builtin/
